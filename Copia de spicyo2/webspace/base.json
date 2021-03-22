@@ -1,0 +1,32 @@
+[
+	{
+		"precio": 50,
+		"id": 1,
+		"title": "torta de chocolate", 
+		"thumbnailURL": "imagenes/torta de chocolate.png"
+	},
+	{
+		"precio": 70,
+		"id": 2,
+		"title": "tarta", 
+		"thumbnailURL": "imagenes/tarta.png"
+	},
+	{
+		"precio": 40,
+		"id": 3,
+		"title": "brownies", 
+		"thumbnailURL": "imagenes/brownies.png"
+	},
+	{
+		"precio": 55,
+		"id": 4,
+		"title": "torta de fresa", 
+		"thumbnailURL": "imagenes/torta con fresa.png"
+	},
+	{
+		"precio": 80,
+		"id": 5,
+		"title": "torta de canela", 
+		"thumbnailURL": "imagenes/Torta de canela.png"
+	}
+]
